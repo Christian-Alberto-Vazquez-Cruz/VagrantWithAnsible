@@ -30,7 +30,7 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas:
 6. **Obtener la IP del servidor**
    ```sh
    ip a
-7. **Abrir un navegador y acceder a**
+7. **Abrir un navegador y acceder a su ip como en el siguiente ejemplo**
    ```sh
    http://192.168.100.53/
 
